@@ -80,3 +80,4 @@ By being able to reliably project the BOP’s earnings, you make them eligible f
 
 * National Survey and Segmentation of Smallholder Households in Uganda (2016). Washington, DC 
 * Annual agricultural survey 2018 - Uganda Bureau of Statistics
+* [Jane Sebbi, a farmer in Kamuli, Uganda] (https://www.flickr.com/photos/28475454@N04/8226722237) by Bread for the World is licensed under CC BY-NC-ND 2.0
