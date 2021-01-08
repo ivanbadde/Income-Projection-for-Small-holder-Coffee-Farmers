@@ -1,7 +1,5 @@
 
-# Project Title
-
-Income-Projection-for-Small-holder-Coffee-Farmers
+# Income-Projection-for-Small-holder-Coffee-Farmers
 
 ## Summary
 
@@ -31,7 +29,7 @@ Uganda has the highest coffee farmer population in the world. Uganda's coffee fa
 The model will be used to project the earnings of small holder coffee farmers with the goal of using that information to appraise credit worthiness and for fiancial planning. 
 The people affected by the model are the 1.7 million small holder coffee farmers in Uganda who might want to access credit and financial planning services but are outside formal financial services. 
 
-![image of a coffee farmer] (/coffee farmer uganda.jpg)
+![image of a coffee farmer](/coffee farmer uganda.jpg)
 
 
 ## Data sources and AI methods
